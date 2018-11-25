@@ -1,0 +1,76 @@
+ManifestFileVersion: 0
+CRC: 3003901940
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8ad08243432cbac51d2c01cacd139109
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 75f9b6969c6a435ca008d651202fbbae
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 84c07ea10dee5294e872e5ada59c9294, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7eac0b54d82077944a60d8388050ff56, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 112d8b96672461346af7f93988a1d69b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d447181763bb6fd428a77e4b843c95a2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 38d34bdacc477b84cb79490110fc76d2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bb055fccfd7497f4a813f5068f31d3c4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8fd6471d7495ca64a8b946eb8ad8805e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: faac239de2e5f7844b5a3fce6058790f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9541d86e2fd84c1d9990edf0852d74ab, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 195
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefs/ZombiePref.prefab
+Dependencies: []

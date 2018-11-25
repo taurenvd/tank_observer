@@ -1,0 +1,90 @@
+ManifestFileVersion: 0
+CRC: 1394738800
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 59e780a8c575456a44b2527b6ca0c3b6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0ca8820578db69e7f70b707bf60f724b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 72
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 948f4100a11a5c24981795d21301da5c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f615db812e7fae84f807384d4ec8e65e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7eac0b54d82077944a60d8388050ff56, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e69db6d4651c34648a4568f14c80aa24, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 21a78b85966ff8446b3a0e17c48072fb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d86f4b95110858e4a8acd37719cfb8b3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 112d8b96672461346af7f93988a1d69b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d447181763bb6fd428a77e4b843c95a2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 06596827848e83b4da2895fe07f2876b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30f4b897495c7ad40b2d47143e02aaba, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 751223c869dbb7d47843631bb1828b6c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5405ae391912c804885ea255d3722cea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dbf4e9aa83bfc984faf8e50d104ecf00, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c10bebbac8624ba4aab7da7c73da52f0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 38d34bdacc477b84cb79490110fc76d2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ba6af5eaa8d821f4e93093fd37ee3484, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: faac239de2e5f7844b5a3fce6058790f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cbabb9efdfdf18745b51060834484cdc, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 124
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefs/PlayerPref.prefab
+Dependencies: []
